@@ -1,4 +1,4 @@
-### On the emergence of spatial-patterns in an epidemic-model by a cross-diffusion term
+### Spatial patterns in an epidemic model
 
 <hr/>
 
