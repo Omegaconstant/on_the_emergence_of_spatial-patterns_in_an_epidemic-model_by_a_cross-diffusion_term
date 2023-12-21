@@ -1,4 +1,4 @@
-### Spatial Patterns in an Epidemic Model
+### Spatial patterns in an epidemic model
 
 ---
 
